@@ -1,0 +1,8 @@
+dataset,bank,source_name,source_url,access_note
+Annual,All banks,Audited annual reports and investor disclosures,https://www.rbi.org.in/annualdata/annual_index.html,Cross-check with individual bank reports
+Quarterly,ICICI Bank,Q1 FY2027 result report,https://www.icicibank.com/about-us/article/news-icici-bank-results,Quarter ended 30 June 2026
+Quarterly,HDFC Bank,Investor relations financial results,https://www.hdfc.bank.in/about-us/investor-relations/financial-results,Quarter ended 30 June 2026
+Quarterly,Axis Bank,Investor relations,https://www.axisbank.com/shareholders-corner/financial-results-and-other-information,Quarter ended 30 June 2026
+Quarterly,Kotak Mahindra Bank,Investor relations,https://www.kotak.com/en/investor-relations/financial-results.html,Quarter ended 30 June 2026
+Quarterly,Yes Bank,Investor relations,https://www.yesbank.in/about-us/investors-relation/financial-information,Quarter ended 30 June 2026
+Market,All banks,Yahoo Finance via yfinance,https://finance.yahoo.com/,Adjusted daily NSE prices
